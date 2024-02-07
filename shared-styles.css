@@ -17,8 +17,22 @@
     align-items: center;
 }
 
-.flex-space-between {
-    justify-content: space-between;
+.flex-gap{
+  
+        gap: 8px;
+ 
+}
+
+.flex-gap-player{
+  
+    gap: 200px;
+
+}
+
+.flex-gap-main{
+  
+    gap: 650px;
+
 }
 
 
@@ -56,5 +70,3 @@
     opacity: 1;
     transition: all 0.3s;
   }
-
-  
